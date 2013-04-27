@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Practica7PlantillaExamen
 {
-    public partial class Form1 : Form
+    public partial class Examen : Form
     {
-        public Form1()
+        public Examen()
         {
             InitializeComponent();
         }

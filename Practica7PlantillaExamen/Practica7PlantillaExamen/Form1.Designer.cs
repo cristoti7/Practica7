@@ -1,6 +1,6 @@
 ﻿namespace Practica7PlantillaExamen
 {
-    partial class Form1
+    partial class Examen
     {
         /// <summary>
         /// Variable del diseñador requerida.
@@ -346,7 +346,7 @@
             this.Calendario.Name = "Calendario";
             this.Calendario.TabIndex = 29;
             // 
-            // Form1
+            // Examen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -381,8 +381,8 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Examen";
+            this.Text = "Examen";
             ((System.ComponentModel.ISupportInitialize)(this.SpinPregunta2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
